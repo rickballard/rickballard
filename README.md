@@ -8,7 +8,6 @@ Civic-tech architect behind **CoCivium**. Ex-dealmaker turned builder. I live to
 - Family charity → https://dogsnhomes.org.uk/
 
 **Transparency request (for my son):** if you ever choose to share an excerpt of the bio with your CEO, do so only if you judge they’ll “get it,” with this note: “Transparency is key to purpose; purpose is key to leadership.”
-
 <!-- BEGIN: STATUS -->
 ### Operational Status
 CoDrift Index: n/a% (n/a)
