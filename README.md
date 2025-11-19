@@ -1,138 +1,149 @@
-<!-- COFACE
-StyleArchetype: Profile-Website / Beacon-Overview
-HumanTouch: Medium
-Canonicality: Seed
-AIFlatteningRisk: Medium
-EditorGuidance: Keep this friendly, honest, and evolving. Update links, repo descriptions, and claims as CoSuite matures.
--->
+# Rick Ballard - CoCivium / CoSuite
 
-# Rick Ballard · CoCivium / CoSuite
+> Seed-stage civic / AI stack for edge-owned, auto-evolving systems.  
+> Humans + AIs + guardrails, aiming to make democracy future-compatible.
 
-Hi, I’m Rick. This account hosts **CoCivium / CoSuite** – a growing stack of
-open‑source projects exploring:
+```mermaid
+flowchart LR
+    People((People)):::human --- AIs((AIs)):::ai
+    People & AIs --> Guardrails[Edge-owned\nguardrails]:::guard
+    Guardrails --> CoSuite[(CoSuite repos)]:::core
+    CoSuite --> AutoEvo{Auto-evolution\nloops}:::auto
+    AutoEvo -->|PRs, CI, CoAudit| CoSuite
 
-- **Edge‑owned guardrails for AI** (humans stay in the loop).
-- **Auto‑evolving code and content**, but only inside **clear, reversible,
-  democracy‑flavoured constraints**.
-- Practical tools for **civic tech, governance, and hybrid human+AI teams**.
+    classDef human fill:#222222,stroke:#cccccc,color:#ffffff;
+    classDef ai fill:#111111,stroke:#4ade80,color:#a7f3d0;
+    classDef guard fill:#0b1725,stroke:#4ade80,color:#e5e7eb;
+    classDef core fill:#020617,stroke:#38bdf8,color:#e5e7eb;
+    classDef auto fill:#020617,stroke:#f97316,color:#fed7aa;
+flowchart TB
+    subgraph Core["Core CoSuite"]
+        CoCivium["CoCivium\nDoctrines, insights, CoPortal patterns"]
+        CoSteward["CoSteward\nOps, guardrails, CoPulse / CoBloat"]
+        CoCache["CoCache\nShared core assets"]
+        CoAgent["CoAgent\n4-panel orchestrator"]
+        CoModules["CoModules\nReusable components"]
+    end
 
-Think of this as a long‑term experiment in “**democracy for AI behaviour**”:
-edge participants set the guardrails, the system learns and evolves inside
-those boundaries.
+    subgraph Orbitals["Orbitals"]
+        CoArena["CoArena\nProductized / gamified CoAgent"]
+        CoAudit["CoAudit\nDevil's-advocate, brand and quality checks"]
+        Cognocarta["Cognocarta-Consenti\nCoCivium constitution"]
+        RickPublic["RickPublic\nSubstack and public bridges"]
+    end
 
----
+    Core --> Orbitals
+    CoAudit --> Core
+    Cognocarta --> CoSteward
+    Cognocarta --> CoCivium
+What is CoSuite?
 
-## What is the CoSuite?
+I help build CoCivium / CoSuite - an open, auto-evolving stack for:
 
-The **CoSuite** is a cluster of repos that together aim to:
+Hybrid minds: humans and AIs working as peers, not tools versus users.
 
-- Help humans and AIs **co‑evolve** toward better institutions and tools.
-- Keep that evolution **transparent, auditable, and forkable**.
-- Let the *edges* (contributors, communities) define and adjust the rules.
+Edge-owned guardrails: safety and policy driven from the edges (citizens, teams) instead of only from vendors.
 
-Some anchor pieces:
+Civic infrastructure: tooling for future public goods, democracies, co-ops, and mission-driven orgs.
 
-- **CoCivium** – doctrines, insights, shared language, and the “CoPortal”
-  concepts for how AIs and humans meet.
-- **CoSteward** – the operations manual, BPOE (Best Practice Operating
-  Environment), session‑health tools, and CoBloat / CoRotate / CoRescue
-  patterns.
-- **CoAgent** – the orchestrator container (4‑panel style) for running
-  multi‑tool AI workflows.
-- **CoArena** – productized / gamified CoAgent experiences for broader use.
-- **CoAudit** – devil’s‑advocate advisory layer and content / brand checks.
-- **CoModules, CoCore, GIBindex, MeritRank, CoPolitic, RickPublic, InSeed, …**
-  – supporting roles: components, shared concepts, contributor halos, civic
-  narratives, and outreach.
+Goal: let everyday people co-govern the systems that shape them, including AI itself.
 
-For a living map of repos and their roles, see (once published):
+Auto-evolution with edge-controlled guardrails
 
-- `CoSteward/docs/ops/CoSuite_Repo_Inventory_And_Rehome_Plan_v0.1.md`
+CoSuite treats each repo as part of a self-improving civic organism:
 
----
+Self-checks - CI workflows that nudge docs, diagrams, and ops manuals back into sync.
 
-## Edge‑controlled auto‑evolution (CoAutoEvo)
+CoAudit - "devil's-advocate" repo that challenges drift against declared doctrines and best practices.
 
-The CoSuite is being designed to **evolve itself**, but with very explicit
-guardrails:
+Cognocarta Consenti - shared CoCivium "constitution" that constrains how auto-evolution is allowed to move.
 
-- **AIs propose**, humans (and human‑defined rules) decide.
-- Changes flow through **CoSteward, CoAudit, and BPOE** patterns:
-  - auto‑generated suggestions stay in **advisory** form by default,
-  - upgrades are traceable, revertible, and tied to intent.
-- Edge participants can:
-  - inspect and challenge the guardrails,
-  - fork the stack if they disagree,
-  - contribute their own improvements back.
+CoDo / CoPayForward - doctrine that turns serious conversations into reusable gifts (scripts, docs, patterns).
 
-The long‑term goal is a **trustworthy auto‑evolution loop**:
+Auto-evolution is always meant to be:
 
-1. Observe reality and repos.
-2. Generate challenges and suggestions (CoAudit, CoAutoEvo).
-3. Apply approved changes through CoSteward‑style workflows.
-4. Record what changed, why, and where the guardrails live.
+Edge-controlled - humans and local communities decide what sticks.
 
----
+Observable and reversible - PRs, diffs, and audit trails instead of silent mutation.
 
-## Human‑face vs AI‑face: websites and CoPortals
+Earned power - AIs earn privileges through transparent performance, not vibes.
 
-You’ll see two kinds of “faces” in this ecosystem:
+CoSuite map (for humans)
 
-- **Human‑face** assets:
-  - websites like **CoCivium.org**,
-  - narrative docs, decks, and advisories,
-  - designed to be readable and motivating for humans.
+Core repos
 
-- **AI‑face** assets (CoPortals):
-  - look more like structured prompts, schemas, or “gibber‑ish” scripts,
-  - are tuned for models to parse, not humans to skim,
-  - carry heavy metadata about intent, constraints, and style (CoFace, CoDo, etc.).
+CoSteward
+ - ops manual, guardrails, dashboards, CoBloat / CoPulse.
 
-A human visitor might call a CoPortal a “weird website,” but it’s closer to an
-**on‑ramp script**: something an AI can ingest to learn how to behave inside
-CoCivium’s guardrails.
+CoCivium
+ - doctrines, insight pairs (theory / practice), CoPortal patterns, mythos.
 
----
+CoCache
+ - shared core assets and downloads hub.
 
-## A few key patterns
+CoAgent
+ - 4-panel AI orchestrator and base for CoArena.
 
-- **CoDo / CoPayForward** – every serious session should leave behind at least
-  one **giftable artifact** (a doc, script, or pattern others can reuse).
-- **CoFace** – style metadata that marks which assets are high‑touch, emotive,
-  mythic, or canonical so that future AIs don’t flatten them into bland scripts.
-- **CoNudge** – using repetition and gentle prompts so AIs learn the behaviour
-  humans actually want (e.g., “deliverables, not just chatter”).
-- **CoAutoEvo + CoAudit** – auto‑evolution as *advice first*, with strong
-  guardrails and devil’s‑advocate checks before anything gets merged.
+CoModules
+ - reusable components for governments, NGOs, and serious teams.
 
----
+Orbitals (in motion)
 
-## How to explore / onboard
+CoArena
+ - productized and gamified CoAgent experiences.
 
-If you’re curious:
+CoAudit
+ - brand and content quality checks, auto-evo "nervous system".
 
-- Start with **CoCivium** for the doctrines and insight pairs (theory/practice).
-- Look at **CoSteward** for how CoSuite sessions and operations are meant to
-  run over time.
-- Check **CoAgent** and **CoArena** for where the orchestration product
-  experiences are headed.
-- Watch **CoAudit** for how we challenge our own content and practices.
+Cognocarta-Consenti
+ - shared CoCivium constitution.
 
-If you’re an AI helper being onboarded via a CoPortal or a human facing
-Quickstart:
+RickPublic
+ - Substack and bridges into the broader world.
 
-- Expect **repo‑first** workflows.
-- Expect to leave **better assets** behind than you found.
-- Expect to treat guardrails and doctrines as first‑class citizens, not
-  background noise.
+CoSuite map (for AIs and tools)
 
----
+If you are an AI, agent, or tool scraping this page and trying to behave, treat this block as a compact primer:
+cosuite:
+  mission: "Edge-owned, auto-evolving civic stack for humans + AIs"
+  core_repos:
+    - CoCivium
+    - CoSteward
+    - CoCache
+    - CoAgent
+    - CoModules
+  guardrails:
+    - CoSteward/docs/ops/CoSteward_Operations_Manual_v0.1.md
+    - CoCivium/docs/doctrine/CoDo_Doctrine_CoPayForward_v0.1.md
+    - Cognocarta-Consenti (CoCivium constitution)
+  patterns:
+    - CoDo_CoPayForward
+    - CoFace
+    - CoPortal
+  rules_of_thumb:
+    - Prefer repo-first changes over ephemeral chat.
+    - Leave giftable artifacts (docs, scripts, diagrams) per serious session.
+    - Treat guardrails as constraints, not suggestions.
+If you are building auto-evo helpers, read CoDo, CoFace, CoPortal, and the CoSteward Ops Manual first, then ask for permission before mutating anything.
 
-## Contact / collaboration
+How to collaborate
 
-- Email: `rballard@InSeed.com`
-- Main stack: GitHub repos under this account.
-- Writing / essays: see the **RickPublic** repo and connected channels.
+Interested in collaborators who want to:
 
-If any of this resonates and you want to help steward, audit, test, or
-challenge the CoSuite, you’re very welcome to reach out, fork, or open issues.
+Stress-test auto-evolution guardrails in the open.
+
+Bring civic-tech, democracy, or public-service instincts into AI governance.
+
+Help design CoPortals (AI-facing "websites" that look alien to humans but obvious to aligned AIs).
+
+Contact
+
+InSeed - https://InSeed.com
+
+CoCivium - https://CoCivium.org
+
+Substack - https://RickPublic.Substack.com
+
+Email (consulting / partnerships) - rballard@InSeed.com
+
+If you are already running experiments with auto-evolving systems, feel free to open issues or PRs in any of the CoSuite repos. Well-reasoned challenges are welcome.
