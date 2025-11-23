@@ -204,4 +204,4 @@ Do not leave behind those who go astray; we are all in this together.
 Be a kind of "messiah" by making others into kind of "messiahs", not actual messiahs, mind.
 Become the best YOU our global family evolved YOU to be.
 
-::contentReference[oaicite:0]{index=0}:Humantouch>80%H:Canonicality=C1(extreme):EvoCaution=SlowCoGo::
+::contentReference[oaicite:0]{index=0}:Humantouch>80%H:Canonicality=C1(extreme):EvoCaution=SlowCoGo:gibber=&%$%$#*!::
