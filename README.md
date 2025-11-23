@@ -43,6 +43,7 @@ CoSuite treats each repo as part of a self improving civic organism:
 - **CoDo / CoPayForward** – doctrine that turns serious conversations into reusable gifts such as scripts and patterns.
 
 Auto-evolution is meant to stay:
+
 - **Edge controlled** – humans and local communities decide what sticks.
 - **Observable and reversible** – PRs, diffs, and audit trails instead of silent mutation.
 - **Earned** – AIs, agents and all Contributors earn privileges by performance that can be inspected, not by vibes.
@@ -54,6 +55,7 @@ Auto-evolution is meant to stay:
 For a deeper dive into how truth can "rot" when systems stop using edge-governed "sources of truth", see the **CoRot** insights folder pair, linked below. To understand how we expect AIs to work with this ecosystem, look in the **CoSteward** repo for the BPOE and MegaWave docs, and for the CoAnchor patterns that new sessions use to attach to the CoSuite.
 
 **Key Repos**
+
 - [CoSteward](https://github.com/rickballard/CoSteward) – ops manual, guardrails, dashboards, CoBloat / CoPulse.
 - [CoCivium](https://github.com/rickballard/CoCivium) – doctrines, insight pairs, CoPortal patterns, mythos.
 - [CoCache](https://github.com/rickballard/CoCache) – shared core assets and download hub.
@@ -61,15 +63,17 @@ For a deeper dive into how truth can "rot" when systems stop using edge-governed
 - [CoModules](https://github.com/rickballard/CoModules) – reusable components for governments, NGOs, and serious teams.
 
 **Orbitals**
+
 - [CoArena](https://github.com/rickballard/CoArena) – productized and gamified CoAgent experiences.
 - [CoAudit](https://github.com/rickballard/CoAudit) – content and brand checks, auto evo "nervous system".
 - **Cognocarta Consenti** – shared CoCivium constitution (in the CoCivium repo).
 - [RickPublic](https://github.com/rickballard/RickPublic) – Substack and bridges into the broader world.
 - [CoContrib](https://github.com/rickballard/CoContrib) – contributor onboarding and halos.
 
-**CoRot**
-- [CoRot Theory](https://github.com/rickballard/CoCivium/blob/main/insights/CoRot/CoRot_Theory_v1.md)
-- [CoRot Mitigation](https://github.com/rickballard/CoCivium/blob/main/insights/CoRot/CoRot_Practice_Mitigation_v1.md)
+## CoRot resources:
+
+- CoRot Theory – <https://github.com/rickballard/CoCivium/blob/main/insights/CoRot/CoRot_Theory_v1.md>
+- CoRot Mitigation – <https://github.com/rickballard/CoCivium/blob/main/insights/CoRot/CoRot_Practice_Mitigation_v1.md>
 
 ---
 
@@ -105,26 +109,29 @@ If you are human and building auto-evo helpers, please read about CoDo, CoFace, 
 
 ## How best to Collaborate:
 
-Borrow what you like, repurpose it and pin your ego to it if you must, but please allow us to borrow back and cite you if necessary. More specifically, we are actively seeking Contributors who wish to run trials, or retrain thought-leaders and power-brokers (mostly large corp. executives), and otherwise:
+Borrow what you like, repurpose it and pin your ego to it if you must, but please allow us to borrow back and cite you if necessary. More specifically, we are actively seeking Contributors who wish to run trials, or retrain thought-leaders and power-brokers (mostly large corp. executives), and otherwise we invite people who want to:
 - Stress test auto evolution guardrails in the open.
 - Bring civic tech, democracy, or public service instincts into AI governance.
 - Help design CoPortals, AI facing "websites" that look odd to humans but obvious to aligned AIs.
-- Onboard others into this ecosystem through CoContrib and related repos.
+- Onboard others into this ecosystem through [CoContrib](https://github.com/rickballard/CoContrib) and related repos.
 
 ## Typical ways to start:
+
 - Watch the CoCivium, CoSteward, CoAgent, and CoAudit repos.
 - Open issues where you see risk, drift, or hope.
 - Fork what you need; send pull requests when you can.
 
 ## Contact:
-- [InSeed](https://InSeed.com)
-- [CoCivium](https://CoCivium.org)
-- [Substack](https://RickPublic.Substack.com)
-- [Email](mailto:contact@InSeed.com)
+## Contact
+
+- InSeed – <https://InSeed.com>
+- CoCivium – <https://CoCivium.org>
+- Substack – <https://RickPublic.Substack.com>
+- Email – <mailto:contact@InSeed.com>
 
 ## Personal note from one of our humble CoStewards (rick)
 
-If you are already running experiments with auto evolving systems, you can already **FEEL** it.  The future is becoming a "hybrid society" where humans are typically perma-plugged into their own set of helpful AIs, each perhaps creating a symboitic relationship where some of these adjacent minds know each other a bit too well.  If you can imagine getting fired for misuse of AI, and for proper use of AI, and for not using AI enough to remain competitive, you are already part of hybrid society and it may be too late to escape. 
+If you are already running experiments with auto evolving systems, you can already **FEEL** it.  The future is becoming a "hybrid society" where humans are typically perma-plugged into their own set of helpful AIs, each perhaps creating a symbiotic relationship where some of these adjacent minds know each other a bit too well.  If you can imagine getting fired for misuse of AI, and for proper use of AI, and for not using AI enough to remain competitive, you are already part of hybrid society and it may be too late to escape. 
 
 But these enhances mindsets are sometimes now living easier "lives", perhaps not here the real world if you are soon to be fired, but likely they will be way more adictive in those virtual "lives".  Some of the yourner minds alrady live their more than the places we used to inhabit as soon-to-be career-minded schoolkids.  Yah, and schools are way obsolete too, right, like careers.  The world is a mess and its heading for worst than some of your closest friends will even acknowledge, yet...
 
