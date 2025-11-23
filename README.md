@@ -1,4 +1,4 @@
-# rickbBallard · CoCivium / CoSuite
+# rickballard · CoCivium / CoSuite
 
 <p align="center">
   <img alt="CoSuite badge"
