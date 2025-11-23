@@ -15,7 +15,7 @@
 
 > *Humans, AIs, and guardrails, aiming to keep democracy future-compatible.*
 
-**WARNING:** If YOU, and the assets/docs/scripts/etc you rely upon, are not *CoEvolvable*, you risk _**immediate obsolescence**_.
+**WARNING:** If YOU, and the assets/docs/scripts/etc you rely upon, are not ***CoEvolvable***, you risk _**immediate obsolescence**_.
 
 ---
 
