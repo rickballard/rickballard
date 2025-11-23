@@ -11,7 +11,7 @@
        src="https://img.shields.io/badge/agents-humans%E2%86%94AIs-ec4899" />
 </p>
 
-> Seed stage civic / AI stack for edge owned, auto evolving systems.  
+> Seed stage civic / AI stack for *edge-owned* and *auto-evolving* systems.  
 > Humans, AIs, and guardrails, aiming to keep democracy future compatible.
 
 ---
