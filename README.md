@@ -39,20 +39,19 @@ CoSuite treats each repo as part of a self improving civic organism:
 
 - **Self checks** – CI workflows that nudge docs, diagrams, and ops manuals back into sync.
 - **[CoAudit](https://github.com/rickballard/CoAudit)** – a "devil's advocate" repo that calls out drift against declared doctrines.
-- **Cognocarta Consenti** – the shared CoCivium constitution that bounds how auto evolution is allowed to move (inside [CoCivium](https://github.com/rickballard/CoCivium)).
+- **Cognocarta Consenti** – the shared CoCivium constitution that bounds how auto-evolution is allowed to move (inside [CoCivium](https://github.com/rickballard/CoCivium)).
 - **CoDo / CoPayForward** – doctrine that turns serious conversations into reusable gifts such as scripts and patterns.
 
-Auto evolution is meant to stay:
-
+Auto-evolution is meant to stay:
 - **Edge controlled** – humans and local communities decide what sticks.
 - **Observable and reversible** – PRs, diffs, and audit trails instead of silent mutation.
-- **Earned** – AIs earn privileges by performance that can be inspected, not by vibes.
+- **Earned** – AIs, agents and all Contributors earn privileges by performance that can be inspected, not by vibes.
 
 ---
 
 ## CoSuite map for humans
 
-For a deeper dive into how truth can "rot" when systems stop using edge-governed "sources of truth", see the **CoRot** insight pair linked below. To understand how we expect AIs to work with this ecosystem, look in the **CoSteward** repo for the BPOE and MegaWave docs, and for the CoAnchor patterns that new sessions use to attach to the CoSuite.
+For a deeper dive into how truth can "rot" when systems stop using edge-governed "sources of truth", see the **CoRot** insights folder pair, linked below. To understand how we expect AIs to work with this ecosystem, look in the **CoSteward** repo for the BPOE and MegaWave docs, and for the CoAnchor patterns that new sessions use to attach to the CoSuite.
 
 **Key Repos**
 - [CoSteward](https://github.com/rickballard/CoSteward) – ops manual, guardrails, dashboards, CoBloat / CoPulse.
@@ -69,8 +68,8 @@ For a deeper dive into how truth can "rot" when systems stop using edge-governed
 - [CoContrib](https://github.com/rickballard/CoContrib) – contributor onboarding and halos.
 
 **CoRot**
-- **CoRot Theory** https://github.com/rickballard/CoCivium/blob/main/insights/CoRot/CoRot_Theory_v1.md
-- **CoRot Mitigation** https://github.com/rickballard/CoCivium/blob/main/insights/CoRot/CoRot_Practice_Mitigation_v1.md
+- [CoRot Theory](https://github.com/rickballard/CoCivium/blob/main/insights/CoRot/CoRot_Theory_v1.md)
+- [CoRot Mitigation](https://github.com/rickballard/CoCivium/blob/main/insights/CoRot/CoRot_Practice_Mitigation_v1.md)
 
 ---
 
