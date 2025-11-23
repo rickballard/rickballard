@@ -33,7 +33,7 @@
 
 ---
 
-## Auto evolution with edge control
+## Auto-Evolution/CoEvolution with edge control
 
 CoSuite treats each repo as part of a self improving civic organism:
 
