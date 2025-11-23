@@ -15,7 +15,7 @@
 
 > *Humans, AIs, and guardrails, aiming to keep democracy future-compatible.*
 
-**WARNING: If you and the documents you rely on, are not CoEvolvable, you and they may soon be obsolete.**
+**WARNING:** If you and the documents you rely on, are not *CoEvolvable*, you and they may soon be obsolete.
 
 ---
 
