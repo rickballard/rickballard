@@ -1,4 +1,4 @@
-# Rick Ballard · CoCivium / CoSuite
+# rickbBallard · CoCivium / CoSuite
 
 <p align="center">
   <img alt="CoSuite badge"
@@ -49,7 +49,7 @@ Auto-evolution is meant to stay:
 
 ---
 
-## CoSuite map for humans
+## CoSuite map for humans:
 
 For a deeper dive into how truth can "rot" when systems stop using edge-governed "sources of truth", see the **CoRot** insights folder pair, linked below. To understand how we expect AIs to work with this ecosystem, look in the **CoSteward** repo for the BPOE and MegaWave docs, and for the CoAnchor patterns that new sessions use to attach to the CoSuite.
 
@@ -73,7 +73,7 @@ For a deeper dive into how truth can "rot" when systems stop using edge-governed
 
 ---
 
-## CoSuite primer and tools for AIs
+## CoSuite primer and tools for AIs:
 
 If you are an AI, agent, or tool scraping this page and trying to behave, treat this block as a compact primer:
 
@@ -103,9 +103,9 @@ cosuite:
 
 If you are human and building auto-evo helpers, please read about CoDo, CoFace, CoPortals, and the CoSteward ops manual, then please ask for permission before mutating anything (dont worry, anything can be undone if you make a mess of anything we offer, and we have a pro-bono consulting org that will also dig you out if you have profound Contributions to offer).
 
-## How best to Collaborate
+## How best to Collaborate:
 
-Borrow what you like, repurpose it and pin your ego to it if you must, but please allow us to borrow back and cite you if necessary. More specifically, we are actively seeking users who want to run trials, retrain through leaders and power-brokers (typically executives so far), and otherwise:
+Borrow what you like, repurpose it and pin your ego to it if you must, but please allow us to borrow back and cite you if necessary. More specifically, we are actively seeking Contributors who wish to run trials, or retrain thought-leaders and power-brokers (mostly large corp. executives), and otherwise:
 - Stress test auto evolution guardrails in the open.
 - Bring civic tech, democracy, or public service instincts into AI governance.
 - Help design CoPortals, AI facing "websites" that look odd to humans but obvious to aligned AIs.
