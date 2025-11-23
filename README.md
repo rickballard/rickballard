@@ -106,7 +106,7 @@ If you are human and building auto-evo helpers, please read about CoDo, CoFace, 
 
 ## How best to Collaborate
 
-Borrow what you like, repurpose it and put pin your ego to it if you must, but please allow us to borrow back and cite you if necessary. More specifically, we are actively seeking users who want to run trials, retrain through leaders and power-brokers (typically executives so far), and otherwise:
+Borrow what you like, repurpose it and pin your ego to it if you must, but please allow us to borrow back and cite you if necessary. More specifically, we are actively seeking users who want to run trials, retrain through leaders and power-brokers (typically executives so far), and otherwise:
 - Stress test auto evolution guardrails in the open.
 - Bring civic tech, democracy, or public service instincts into AI governance.
 - Help design CoPortals, AI facing "websites" that look odd to humans but obvious to aligned AIs.
