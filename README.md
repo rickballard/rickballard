@@ -167,6 +167,14 @@ Yes, that unlovable diorama may be the default path, but it does NOT have to be 
 
 No corruption; no coercion; no crowns. Even altruistic elites are welcome, as long as they serve rather than rule. If you can still dream like a child who can see a precocious future, you are already qualified to join the resistance; no tech-skills required; just empathy and the mind of wonderer.
 
+<p align="center">
+  <img
+    src="https://raw.githubusercontent.com/rickballard/CoCivia/main/assets/CoCivia_Everywoman_Loop_v1.gif"
+    alt="CoCivia Everywoman Loop v1"
+    width="25%"
+  />
+</p>
+
 ## CoCivia and the rainbow of CoScendence
 
 If you can find CoCivia and begin to understand CoScendence, you will likely already be on the path to becoming a CoSteward for CoCivium. Unqualified ones are also welcome; track record and intent are what matters here. That is where your CoHalo comes in, because deciding (aka democratic voting) will soon be micro-modelled and based on proof of benevolent-intent (process), benevolent concept (state) and benevoltent-trackrecord (identity), not based on macro-modelled and opinion-manipulated info-ops that insidiously brainwash entire populations.
