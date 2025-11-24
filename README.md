@@ -204,3 +204,120 @@ Be a kind of "messiah" by making others into kind of "messiahs", not actual mess
 Become the best YOU our global family evolved YOU to be.
 
 ::contentReference[oaicite:0]{index=0}:Humantouch>80%H:Canonicality=C1(extreme):EvoCaution=SlowCoGo:gibber=&%$%$#*!::
+
+## CoMap: Choose your path into the CoSuite
+
+> This section is an **on-ramp for new contributors**. Use it to decide where to start reading and where you’re most likely to enjoy contributing.
+
+### How to use this map
+
+1. Skim the **persona list** below and pick the one (or two) that feels most like you right now.
+2. Follow the **Start here** repo links for that persona.
+3. Treat this as a **living map**: as your skills and curiosity evolve, come back and choose a new path.
+
+---
+
+### Personas and starting paths
+
+#### 1. Steward / systems thinker / "zoomed-out" architect
+
+- **You enjoy:** big-picture framing, governance, incentives, civic impact, long-term risk and opportunity.
+- **Start here:**
+  - `CoCivium` – high-level vision and civic stack.
+  - `CoSteward` – operating system for stewards, BPOEs, MegaWave patterns.
+- **Then explore:**
+  - `CoPolitic` – public-facing governance / sponsors / exemplars.
+  - `CoRef` – reference materials, lenses, and anchors.
+
+---
+
+#### 2. Builder / engineer / infrastructure-minded contributor
+
+- **You enjoy:** code, automation, CLI tools, reproducible workflows, making things actually run.
+- **Start here:**
+  - `CoCache` – shared state, inboxes, advice flows.
+  - `CoAgent` – multi-panel CLI + orchestration container.
+- **Then explore:**
+  - `CoCore` – core patterns, reusable modules, glue logic.
+  - `CoAudit` – trust, metrics, audits, quality checks.
+
+---
+
+#### 3. Product, UX, and interaction designer
+
+- **You enjoy:** user journeys, interaction patterns, visual flows, making tools feel inviting and humane.
+- **Start here:**
+  - `CoArena` – game-like / productized surfaces on top of CoAgent.
+  - `CoAgent` – the underlying interaction container and panels.
+- **Then explore:**
+  - `CoCivium` – the story and framing for hybrid society.
+  - `CoContrib` – onboarding flows and contributor experience.
+
+---
+
+#### 4. Governance, ethics, policy, and accountability
+
+- **You enjoy:** rules, safeguards, incentives, alignment, “what could go wrong and how do we prevent it?”
+- **Start here:**
+  - `CoAudit` – checks, metrics, trust processes.
+  - `CoPolitic` – stakeholder-facing governance and exemplars.
+- **Then explore:**
+  - `CoRef` – background materials, models, and citations.
+  - `CoCivium` – overall constitutional / hybrid-society framing.
+
+---
+
+#### 5. Educator, facilitator, coach, and community builder
+
+- **You enjoy:** helping people learn, designing workshops, guiding teams, building communities of practice.
+- **Start here:**
+  - `CoContrib` – contributor onboarding and training flows.
+  - `CoSteward` – playbooks and stewardship patterns.
+- **Then explore:**
+  - `CoArena` – interaction formats that can be used in learning contexts.
+  - `CoCivia` – narrative assets and exemplars you can use in teaching.
+
+---
+
+#### 6. Storyteller, writer, communicator, and myth-maker
+
+- **You enjoy:** narrative, metaphor, visual storytelling, making complex ideas emotionally legible.
+- **Start here:**
+  - `CoCivia` – story, mythos, characters, and narrative assets.
+  - `CoCivium` – the big-picture story and public framing.
+- **Then explore:**
+  - `RickPublic` (or successor outreach repo) – public posts, newsletters, and external comms.
+  - `CoPolitic` – narrative for sponsors, institutions, and policy audiences.
+
+---
+
+#### 7. Data, metrics, modelling, and evaluation
+
+- **You enjoy:** measurement, dashboards, models, scoring, and feedback loops.
+- **Start here:**
+  - `CoAudit` – metrics, checks, and quality feedback loops.
+- **Then explore:**
+  - `CoCache` – shared state and logging.
+  - `CoCore` – places where data and metrics hooks may live.
+
+---
+
+### If you don’t see yourself here
+
+- Pick the **closest** persona above and start there.
+- Open an issue or PR in the hub repo proposing a new persona or path.
+- The CoSuite is meant to **co-evolve**. If something feels missing, that’s an invitation.
+
+---
+
+### Next steps after choosing a path
+
+1. **Read the README** and `/docs` of your chosen starting repo.
+2. Look for any **"How to contribute"** or **"First issues"** guidance.
+3. If you’re unsure what to do next:
+   - open a **discussion** in the hub repo, or
+   - raise a small issue describing who you are and what you’d like to explore.
+
+The goal of this CoMap addendum is simple:  
+**help you find a starting place where contribution feels natural, meaningful, and sustainable.**
+
