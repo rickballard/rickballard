@@ -25,7 +25,7 @@
 
 - **Hybrid minds** which - humans and AIs working as mindset-peers, not tools versus users.
 - **Civic infrastructure** - tooling for future public goods, democracies, co-ops, and mission driven orgs.
-- **Edge owned guardrails** - safeties and policies shaped by citizens (CoCivities, all welcome) and thier teams, not only by vendors, power-brokiers, govenments or elites.
+- **Edge owned guardrails** - safeties and policies shaped by citizens (CoCivities, all welcome) and thier teams, not only by vendors, power-brokers, govenments or elites.
 
 **Goal:** let everyday people co-govern the systems that shape them, including AI itself.
 
