@@ -125,7 +125,6 @@ Borrow what you like, repurpose it and pin your ego to it if you must, but pleas
 - Fork what you need; send pull requests when you can.
 
 ## Contact:
-## Contact
 
 - InSeed – <https://InSeed.com>
 - CoCivium – <https://CoCivium.org>
