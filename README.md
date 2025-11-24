@@ -57,7 +57,7 @@ Auto-evolution is meant to stay:
 
 For a deeper dive into how truth can "rot" when systems stop using edge-governed "sources of truth", see the **CoRot** insights folder pair, linked below. To understand how we expect AIs to work with this ecosystem, look in the **CoSteward** repo for the BPOE and MegaWave docs, and for the CoAnchor patterns that new sessions use to attach to the CoSuite.
 
-**Key Repos**
+**Key Repos:**
 
 - [CoSteward](https://github.com/rickballard/CoSteward) – ops manual, guardrails, dashboards, CoBloat / CoPulse.
 - [CoCivium](https://github.com/rickballard/CoCivium) – doctrines, insight pairs, CoPortal patterns, mythos.
@@ -65,7 +65,7 @@ For a deeper dive into how truth can "rot" when systems stop using edge-governed
 - [CoAgent](https://github.com/rickballard/CoAgent) – four panel AI orchestrator and base for CoArena.
 - [CoModules](https://github.com/rickballard/CoModules) – reusable components for governments, NGOs, and serious teams.
 
-**Orbitals**
+**Orbitals:**
 
 - [CoArena](https://github.com/rickballard/CoArena) – productized and gamified CoAgent experiences.
 - [CoAudit](https://github.com/rickballard/CoAudit) – content and brand checks, auto evo "nervous system".
@@ -73,7 +73,7 @@ For a deeper dive into how truth can "rot" when systems stop using edge-governed
 - [RickPublic](https://github.com/rickballard/RickPublic) – Substack and bridges into the broader world.
 - [CoContrib](https://github.com/rickballard/CoContrib) – contributor onboarding and halos.
 
-## CoRot resources:
+**CoRot resources:**
 
 - CoRot Theory – <https://github.com/rickballard/CoCivium/blob/main/insights/CoRot/CoRot_Theory_v1.md>
 - CoRot Mitigation – <https://github.com/rickballard/CoCivium/blob/main/insights/CoRot/CoRot_Practice_Mitigation_v1.md>
