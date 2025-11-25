@@ -177,7 +177,7 @@ No corruption; no coercion; no crowns. Even altruistic elites are welcome, as lo
   />
 </p>
 
-## CoCivia and the rainbow of CoScendence
+## CoCivia and CoScendence
 
 If you can find CoCivia and begin to understand CoScendence, you will likely already be on the path to becoming a CoSteward for CoCivium. Unqualified ones are also welcome; track record and intent are what matters here. That is where your CoHalo comes in, because deciding (aka democratic voting) will soon be micro-modelled and based on proof of benevolent-intent (process), benevolent concept (state) and benevoltent-trackrecord (identity), not based on macro-modelled and opinion-manipulated info-ops that insidiously brainwash entire populations.
 
