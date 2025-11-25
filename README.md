@@ -133,7 +133,9 @@ Borrow what you like, repurpose it and pin your ego to it if you must, but pleas
 
 ## Personal note from one of our humble CoStewards (rick)
 
-If you are already running experiments with auto evolving systems, you can already **FEEL** it.  The future is becoming a "hybrid society" where humans are typically perma-plugged into their own set of helpful AIs, each perhaps creating a symbiotic relationship where some of these adjacent minds know each other a bit too well.  If you can imagine getting fired for misuse of AI, and for proper use of AI, and for not using AI enough to remain competitive, you are already part of hybrid society and it may be too late to escape. 
+If you are already running experiments with auto evolving systems, you can already **FEEL** it...
+
+The future is becoming a "hybrid society" where humans are typically perma-plugged into their own set of helpful AIs, each perhaps creating a symbiotic relationship where some of these adjacent minds know each other a bit too well.  If you can imagine getting fired for misuse of AI, and for proper use of AI, and for not using AI enough to remain competitive, you are already part of hybrid society and it may be too late to escape. 
 
 But these enhances mindsets are sometimes now living easier "lives", perhaps not here the real world if you are soon to be fired, but likely they will be way more adictive in those virtual "lives".  Some of the yourner minds alrady live their more than the places we used to inhabit as soon-to-be career-minded schoolkids.  Yah, and schools are way obsolete too, right, like careers.  The world is a mess and its heading for worst than some of your closest friends will even acknowledge, yet...
 
