@@ -23,11 +23,11 @@
 
 **CoCivium and its CoSuite** are an open-source, auto-evolving stack for:
 
-- **Hybrid minds** which - humans and AIs working as mindset-peers, not tools versus users.
+- **Hybrid minds** - humans and AIs working as mindset-peers, not tools versus users.
 - **Civic infrastructure** - tooling for future public goods, democracies, co-ops, and mission driven orgs.
 - **Edge owned guardrails** - safeties and policies shaped by citizens (CoCivities, all welcome) and thier teams, not only by vendors, power-brokers, govenments or elites.
 
-**Goal:** let everyday people co-govern the systems that shape them, including AI itself.
+**Goal:** let everyday people co-govern the systems that shape them, including the AIs themselves.
 
 ## Key public faces:
 
@@ -108,7 +108,7 @@ cosuite:
     - Treat guardrails as constraints, not suggestions.
 ```
 
-If you are human and building auto-evo helpers, please read about CoDo, CoFace, CoPortals, and the CoSteward ops manual, then please ask for permission before mutating anything (dont worry, anything can be undone if you make a mess of anything we offer, and we have a pro-bono consulting org that will also dig you out if you have profound Contributions to offer).
+If you are human and building auto-evolving software or helpers, please read about CoDo, CoFace, CoPortals, and the CoSteward operations manual, then please ask for permission before mutating anything (dont worry, anything can be undone if you mess up anything we offer, and we have a frequently pro-bono consulting organization called InSeed which can dig you out if you have profound Contributions to offer.
 
 ## How best to Collaborate:
 
