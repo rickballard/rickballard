@@ -1,5 +1,10 @@
 # Rick Ballard · CoCivium / CoSuite hub
 
+[![CoCivium – CoSuite hub](https://img.shields.io/badge/CoCivium-CoSuite%20hub-4b9fff)](https://github.com/rickballard/CoCivium)
+[![CoSteward – ops manual](https://img.shields.io/badge/CoSteward-Ops%20manual-8b5cf6)](https://github.com/rickballard/CoSteward)
+[![GIBindex – concept index](https://img.shields.io/badge/GIBindex-Concept%20index-22c55e)](https://github.com/rickballard/GIBindex)
+
+
 > “No corruption. No coercion. No crowns.”  
 > Work in public. Guard the sources of truth. Help build a better hybrid society for whoever comes after us.
 
@@ -161,7 +166,7 @@ If you are not sure where to begin, say so, plainly. “I care, but I am lost”
 
 ### Personas and starting paths
 
-#### <img src="icons/persona-steward.svg" alt="Steward icon" width="20" height="20"> 1. Steward / systems thinker / zoomed-out architect
+#### ![Steward](icons/persona-steward.svg) 1. Steward / systems thinker / zoomed-out architect
 
 - You enjoy: big-picture framing, governance, incentives, civic impact, long-term risk and opportunity.
 - Start here:
@@ -171,7 +176,7 @@ If you are not sure where to begin, say so, plainly. “I care, but I am lost”
   - `CoPolitic` – public-facing governance, sponsors, exemplars.
   - `CoRef` – reference materials, lenses, and anchors.
 
-#### <img src="icons/persona-builder.svg" alt="Builder icon" width="20" height="20"> 2. Builder / engineer / infrastructure-minded contributor
+#### ![Builder](icons/persona-builder.svg) 2. Builder / engineer / infrastructure-minded contributor
 
 - You enjoy: code, automation, CLI tools, reproducible workflows, making things actually run.
 - Start here:
@@ -181,7 +186,7 @@ If you are not sure where to begin, say so, plainly. “I care, but I am lost”
   - `CoCore` – core patterns, reusable modules, glue logic.
   - `CoAudit` – trust, metrics, audits, quality checks.
 
-#### <img src="icons/persona-designer.svg" alt="Designer icon" width="20" height="20"> 3. Product, UX, and interaction designer
+#### ![Designer](icons/persona-designer.svg) 3. Product, UX, and interaction designer
 
 - You enjoy: user journeys, interaction patterns, visual flows, making tools feel inviting and humane.
 - Start here:
@@ -191,7 +196,7 @@ If you are not sure where to begin, say so, plainly. “I care, but I am lost”
   - `CoCivium` – the story and framing for hybrid society.
   - `CoContrib` – onboarding flows and contributor experience.
 
-#### <img src="icons/persona-governance.svg" alt="Governance icon" width="20" height="20"> 4. Governance, ethics, policy, and accountability
+#### ![Governance](icons/persona-governance.svg) 4. Governance, ethics, policy, and accountability
 
 - You enjoy: rules, safeguards, incentives, alignment, “what could go wrong and how do we prevent it?”
 - Start here:
@@ -201,7 +206,7 @@ If you are not sure where to begin, say so, plainly. “I care, but I am lost”
   - `CoRef` – background materials, models, and citations.
   - `CoCivium` – overall constitutional and hybrid-society framing.
 
-#### <img src="icons/persona-educator.svg" alt="Educator icon" width="20" height="20"> 5. Educator, facilitator, coach, and community builder
+#### ![Educator](icons/persona-educator.svg) 5. Educator, facilitator, coach, and community builder
 
 - You enjoy: helping people learn, designing workshops, guiding teams, building communities of practice.
 - Start here:
@@ -211,7 +216,7 @@ If you are not sure where to begin, say so, plainly. “I care, but I am lost”
   - `CoArena` – interaction formats that can be used in learning contexts.
   - `CoCivia` – narrative assets and exemplars you can use in teaching.
 
-#### <img src="icons/persona-storyteller.svg" alt="Storyteller icon" width="20" height="20"> 6. Storyteller, writer, communicator, and myth-maker
+#### ![Storyteller](icons/persona-storyteller.svg) 6. Storyteller, writer, communicator, and myth-maker
 
 - You enjoy: narrative, metaphor, visual storytelling, making complex ideas emotionally legible.
 - Start here:
@@ -221,7 +226,7 @@ If you are not sure where to begin, say so, plainly. “I care, but I am lost”
   - `RickPublic` (or successor outreach repo) – public posts, newsletters, external comms.
   - `CoPolitic` – narrative for sponsors, institutions, and policy audiences.
 
-#### <img src="icons/persona-metrics.svg" alt="Metrics icon" width="20" height="20"> 7. Data, metrics, modelling, and evaluation
+#### ![Metrics](icons/persona-metrics.svg) 7. Data, metrics, modelling, and evaluation
 
 - You enjoy: measurement, dashboards, models, scoring, and feedback loops.
 - Start here:
@@ -253,6 +258,7 @@ The goal of this CoMap addendum is simple: help you find a starting place where 
 For a fuller personal background and context for this work, see:
 
 - [Rick Ballard · public profile](https://github.com/rickballard/CoCivium/blob/main/docs/public-profile.md)
+
 
 
 
