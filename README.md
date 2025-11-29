@@ -20,10 +20,10 @@ This is also where we expore the only alternative, the "edge-balanced stability"
 
 ## What sits here
 
-- A map of the CoSuite repos and how they fit together.
-- Working doctrines for stewards, contributors, and allied-AIs.
+- A map of CoCivium-related repos, and how they all fit together.
+- Working doctrines for stewards, contributors and allied-AIs.
 - Links to public-facing materials (CoCivium.org, InSeed.com, Substack, etc.).
-- Seeds for “how we work” in a world where AIs do most of the work and humans set the guardrails.
+- Seeds for “how we work” in a world where AIs do most of the work, but regular folk set the guardrails.
 
 If you want the polished, public-facing story, go to **CoCivium.org** or **InSeed.com**.  
 If you want the live wiring diagram and the messy lab, you are in the right place.
