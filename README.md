@@ -12,14 +12,16 @@ This repo is a **"navigation hub"** for the CoCivium ecosystem. It's messy becau
 
 If you found your way here, you may already be wrestling with that uncomfortable **"feeling"**, a rapidly growing convicion that something is wrong with the world. You likely can't put it all together yet, but you are smart enough to get there, if you ever get to see through all the media-spin, political distractions and fake news. 
 
-So this is where you can feel the movement to fix world. This is where you see the why, and the how, of a wave that we are inviting you to help us build. This is where "we the people", that quaint idea that used to actually mean something, show the default future that technologies now enable, and the new balance that "we the poeple" may yet impose, to fix world.
+So this is where you first feel the movement to fix world, then see it clearly. This is where you see the why and the how of a wave that we invite join. This is where "we the people", (a layer of society that used to carry more weight), show each other the default future "core-controlled stability", a capitalist end-game facilitated by new technologies. 
+
+This is also where we expore the only alternative, the "edge-balanced stability", the only future where "we the poeple" get to impose the gaurdrails that makes CoEvolution equitable for all beings, where we are not inherently disadvantaged by emerging technologies, where converging power-brokers do not get to control most of the wealth, nearly all of our organazional systemss, virtually all of society, and eventually, all of us.
 
 ---
 
 ## What sits here
 
 - A map of the CoSuite repos and how they fit together.
-- Working doctrines for stewards, contributors, and allied AIs.
+- Working doctrines for stewards, contributors, and allied-AIs.
 - Links to public-facing materials (CoCivium.org, InSeed.com, Substack, etc.).
 - Seeds for “how we work” in a world where AIs do most of the work and humans set the guardrails.
 
