@@ -51,7 +51,7 @@ If you are already running experiments with auto-evolving systems, you can certa
 
 The future is not “AI as a tool”, bolted onto the old world. It is a **hybrid-society** where humans are permanently entangled with AIs that do almost everything for them. Work, learning, relationships, politics, even how you see yourself. Each adjacent mind will be able to know you a bit too well.
 
-If you can imagine being fired for misusing AI, or for using it correctly when your boss fears it, or for not using it enough to stay competitive, then you are already standing in that hybrid society. There is no exit back to the old one.
+If you can imagine being fired for misusing AI, or for using it correctly when your boss fears it, or for not using it enough to stay competitive, then you are already standing in that hybrid-society. There is no exit back to the old one.
 
 Younger people feel this most. Many already live more inside synthetic “lives” than in the world we grew up in. School feels obsolete to them. Many careers will soon feel the same. That is not a mood. It is a structural shift in how power, attention, and coordination work.
 
