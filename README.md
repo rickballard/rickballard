@@ -32,7 +32,7 @@ If you want the live wiring diagram and the messy lab, you are in the right plac
 
 ## The CoSuite in one breath
 
-**CoCivium** is an attempt to build a civic-tech and governance stack for a hybrid society where humans and AIs co-evolve on purpose instead of drifting into capture.
+**CoCivium** is an attempt to build a civic-tech and governance stack for a hybrid society where humans and AIs CoEvolve on purpose, instead of drifting into capture.
 
 The CoSuite repos (CoSteward, CoAgent, CoCache, CoAudit, CoContrib, CoPolitic, CoRef, CoCivia, and others) are the moving parts. They try to answer questions like:
 
