@@ -263,3 +263,5 @@ For a fuller personal background and context for this work, see:
 
 
 
+
+> For the story + BPOE lessons behind these persona badges, see docs/notes/2025-11-28-persona-icon-microwave.md.
