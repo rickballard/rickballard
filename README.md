@@ -14,7 +14,7 @@ If you found your way here, you may already be wrestling with that uncomfortable
 
 So this is where you might first feel the movement to fix world, then see it clearly. This is where you see the how and the why, of a wave we invite you join. This is where "we the people", (a layer of society that used to carry more weight), show each other the default future "core-controlled stability", a capitalist end-game facilitated by new technologies. 
 
-This is also where we expore the only alternative, the "edge-balanced stability", the only future where "we the poeple" get to impose the gaurdrails that makes CoEvolution equitable for all beings, where we are not inherently disadvantaged by emerging technologies, where converging power-brokers do not get to control most of the wealth, nearly all of our organazional systemss, virtually all of society, and eventually, all of us.
+This is also where we expore the only alternative, the "edge-balanced stability", the only future where "we the poeple" get to impose the gaurdrails that makes CoEvolution equitable for all beings, where we are not inherently disadvantaged by emerging technologies, where converging power-brokers do not get to control most of the wealth, nearly all of our organizational systems, virtually all of society, and eventually, all of us.
 
 ---
 
