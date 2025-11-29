@@ -10,7 +10,7 @@
 
 This repo is a **"navigation hub"** for the CoCivium ecosystem. It's messy because you are seeing notes, experiments, and doctrines while they are being formed, not after a PR agency polished them. Transparency is a big theme here.
 
-If you found your way here, you may already be wrestling with that uncomfortable **"feeling"**, the feeling that something is wrong with the world. You likely can't put it all together yet, but you are smart enough to get there, if you ever get to see through all the media-spin, political distractions and fake news. 
+If you found your way here, you may already be wrestling with that uncomfortable **"feeling"**, a rapidly growing convicion that something is wrong with the world. You likely can't put it all together yet, but you are smart enough to get there, if you ever get to see through all the media-spin, political distractions and fake news. 
 
 So this is where you can feel the movement to fix world. This is where you see the why, and the how, of a wave that we are inviting you to help us build. This is where "we the people", that quaint idea that used to actually mean something, show the default future that technologies now enable, and the new balance that "we the poeple" may yet impose, to fix world.
 
