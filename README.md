@@ -8,9 +8,11 @@
 > “No corruption. No coercion. No crowns.”  
 > Work in public. Guard the sources of truth. Help build a better hybrid society for whoever comes after us.
 
-This repo is my personal hub for the CoCivium / CoSuite ecosystem. It is messy on purpose. You are seeing notes, experiments, and doctrines while they are being formed, not after a PR agency sanded the edges off.
+This repo is a navigation-hub for the CoCivium ecosystem. It's messy because you are seeing notes, experiments, and doctrines while they are being formed, not after a PR agency polished them. Transparency is a big theme here.
 
-If you are here, you probably already feel that something in the world is off. You can feel the wave building. This is where I am trying to do something about it, with whoever shows up.
+If you found your way here, you probably already have the "feeling" that something is wrong with the world. You likely can't put it all together yet, but you are smart enough to get there when you can see trough all the spin, distraction and fake news. 
+
+So this is where you can feel the movement to fix world. This is where you see the why, and the how, of a wave that we are inviting you to help us build. This is where "we the people", that quaint idea that used to actually mean something, show the default future that technologies now enable, and the new balance that "we the poeple" may yet impose, to fix world.
 
 ---
 
