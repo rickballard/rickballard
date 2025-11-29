@@ -47,7 +47,7 @@ This hub holds the story, the map, and a lot of the glue that tries to keep thos
 
 ## Why this matters now
 
-If you are already running experiments with auto-evolving systems, you can feel it.
+If you are already running experiments with auto-evolving systems, you can certainly "feel it".
 
 The future is not “AI as a tool” bolted onto the old world. It is a **hybrid society** where humans are permanently entangled with AIs that do almost everything for them. Work, learning, relationships, politics, even how you see yourself. Each adjacent mind will be able to know you a bit too well.
 
