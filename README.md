@@ -37,7 +37,7 @@ If you want the live wiring diagram and the messy lab, you are in the right plac
 The CoSuite repos (CoCiviu, CoSteward, CoAgent, CoCache, CoAudit, CoContrib, CoPolitic, CoRef, CoCore, CoCivia, CoModules, and many others) are the moving parts. They try to answer questions like:
 
 1) How do we keep “sources of truth” from being captured and quietly rotted?
-2) How do we give edge-control to real people instead of just platforms, dynasties and tech-bros?
+2) How do we give edge-control to regular people instead of just platforms, dynasties and tech-bros?
 3) How do we help AIs stay sane, aligned, and accountable when they are doing almost everything for us?
 4) How do we allow auto-evolution of systems without letting them drift into coercion or collapse?
 
