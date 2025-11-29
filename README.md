@@ -8,7 +8,7 @@
 > “No corruption. No coercion. No crowns.”  
 > Work in public. Guard the sources of truth. Help build a better hybrid society for whoever comes after us.
 
-This repo is a navigation-hub for the CoCivium ecosystem. It's messy because you are seeing notes, experiments, and doctrines while they are being formed, not after a PR agency polished them. Transparency is a big theme here.
+This repo is a **"navigation hub"** for the CoCivium ecosystem. It's messy because you are seeing notes, experiments, and doctrines while they are being formed, not after a PR agency polished them. Transparency is a big theme here.
 
 If you found your way here, you probably already have the "feeling" that something is wrong with the world. You likely can't put it all together yet, but you are smart enough to get there when you can see trough all the spin, distraction and fake news. 
 
