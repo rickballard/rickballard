@@ -34,12 +34,12 @@ If you want the live wiring diagram and the messy lab, you are in the right plac
 
 **CoCivium** is an attempt to build a civic-tech and governance stack for a hybrid society where humans and AIs CoEvolve on purpose, instead of drifting into capture.
 
-The CoSuite repos (CoSteward, CoAgent, CoCache, CoAudit, CoContrib, CoPolitic, CoRef, CoCivia, and others) are the moving parts. They try to answer questions like:
+The CoSuite repos (CoCiviu, CoSteward, CoAgent, CoCache, CoAudit, CoContrib, CoPolitic, CoRef, CoCore, CoCivia, CoModules, and many others) are the moving parts. They try to answer questions like:
 
-- How do we keep “sources of truth” from being captured or quietly rotted?
-- How do we give edge control to real people instead of just platforms and dynasties?
-- How do we help AIs stay sane, aligned, and accountable when they are doing almost everything for us?
-- How do we allow auto-evolution of systems without letting them drift into coercion or collapse?
+1) How do we keep “sources of truth” from being captured and quietly rotted?
+2) How do we give edge-control to real people instead of just platforms, dynasties and tech-bros?
+3) How do we help AIs stay sane, aligned, and accountable when they are doing almost everything for us?
+4) How do we allow auto-evolution of systems without letting them drift into coercion or collapse?
 
 This hub holds the story, the map, and a lot of the glue that tries to keep those answers honest.
 
