@@ -23,10 +23,10 @@ This is also where we expore the only alternative, the "edge-balanced stability"
           <img src="images/logos/cocivium-badge.svg" width="56" alt="CoCivium logo">
         </div>
         <div style="margin:8px 0;">
-          <img src="images/logos/coagent-badge.png" width="96" alt="CoAgent logo">
+          <img src="images/logos/coagent-badge.png" width="128" alt="CoAgent logo">
         </div>
         <div style="margin:8px 0;">
-          <img src="images/logos/coarena-badge.png" width="96" alt="CoArena logo">
+          <img src="images/logos/coarena-badge.png" width="128" alt="CoArena logo">
         </div>
         <div style="margin:8px 0;">
           <img src="images/logos/repozipper-hamburger-z.svg" width="56" alt="RepoZipper logo">
@@ -42,18 +42,18 @@ This is also where we expore the only alternative, the "edge-balanced stability"
     <td align="center" valign="middle">
       <div>
         <div style="margin:8px 0;">
-          <img src="images/logos/cocivia-badge.png" width="96" alt="CoCivia logo">
+          <img src="images/logos/cocivia-badge.png" width="128" alt="CoCivia logo">
         </div>
         <div style="margin:8px 0;">
           <img src="images/logos/coguard-g.svg" width="56" alt="CoGuard logo">
         </div>
-        <div style="margin:8px 0;">
+        <div style="margin:8px 0%;">
           <img src="images/logos/key-circle.svg" width="56" alt="Guardrails key icon">
         </div>
-        <div style="margin:8px 0;">
+        <div style="margin:8px 0%;">
           <img src="images/logos/2-rings-glow.svg" width="56" alt="Allied minds icon">
         </div>
-        <div style="margin:8px 0;">
+        <div style="margin:8px 0%;">
           <img src="images/logos/wonky-face.svg" width="56" alt="Human messiness icon">
         </div>
       </div>
@@ -310,6 +310,7 @@ For a fuller personal background and context for this work, see:
 - [Rick Ballard · public profile](https://github.com/rickballard/CoCivium/blob/main/docs/public-profile.md)
 
 > 
+
 
 
 
