@@ -23,15 +23,15 @@ This is also where we expore the only alternative, the "edge-balanced stability"
           <img src="images/logos/cocivium-badge.svg" width="56" alt="CoCivium logo">
         </div>
         <div style="margin:8px 0;">
-          <img src="images/logos/coagent-badge.png" width="56" alt="CoAgent logo">
+          <img src="images/logos/coagent-badge.png" width="96" alt="CoAgent logo">
         </div>
         <div style="margin:8px 0;">
-          <img src="images/logos/coarena-badge.png" width="56" alt="CoArena logo">
+          <img src="images/logos/coarena-badge.png" width="96" alt="CoArena logo">
         </div>
         <div style="margin:8px 0;">
           <img src="images/logos/repozipper-hamburger-z.svg" width="56" alt="RepoZipper logo">
         </div>
-        <div style="margin:8px 0;">
+        <div style="margin:24px 0 0 0;">
           <img src="images/logos/question-mark-circle.svg" width="56" alt="Curious steward icon">
         </div>
       </div>
@@ -42,7 +42,7 @@ This is also where we expore the only alternative, the "edge-balanced stability"
     <td align="center" valign="middle">
       <div>
         <div style="margin:8px 0;">
-          <img src="images/logos/cocivia-badge.png" width="56" alt="CoCivia logo">
+          <img src="images/logos/cocivia-badge.png" width="96" alt="CoCivia logo">
         </div>
         <div style="margin:8px 0;">
           <img src="images/logos/coguard-g.svg" width="56" alt="CoGuard logo">
@@ -310,6 +310,7 @@ For a fuller personal background and context for this work, see:
 - [Rick Ballard · public profile](https://github.com/rickballard/CoCivium/blob/main/docs/public-profile.md)
 
 > 
+
 
 
 
