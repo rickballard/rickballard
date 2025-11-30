@@ -102,7 +102,8 @@ History, nature, and whatever you believe sits above both, may have thrown us in
 
 So if any of this matches what your own gut and your own AIs are telling you, treat that as a signal.
 
-You are not overreacting. The wave really is that big.  
+You are not overreacting. The wave really is that big.
+
 The question is whether you want to help shape it before it hardens around you.
 
 ---
