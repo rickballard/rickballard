@@ -4,7 +4,6 @@
 [![CoSteward – ops manual](https://img.shields.io/badge/CoSteward-Ops%20manual-8b5cf6)](https://github.com/rickballard/CoSteward)
 [![GIBindex – concept index](https://img.shields.io/badge/GIBindex-Concept%20index-22c55e)](https://github.com/rickballard/GIBindex)
 
-
 > “No corruption. No coercion. No crowns.”  
 > Work in public. Guard the sources of truth. Help build a better hybrid society for whoever comes after us.
 
@@ -278,12 +277,6 @@ For a fuller personal background and context for this work, see:
 
 - [Rick Ballard · public profile](https://github.com/rickballard/CoCivium/blob/main/docs/public-profile.md)
 
-
-
-
-
-
-> For the story + BPOE lessons behind these persona badges, see docs/notes/2025-11-28-persona-icon-microwave.md.
-
+> 
 
 
