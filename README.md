@@ -17,14 +17,26 @@ This is also where we expore the only alternative, the "edge-balanced stability"
 
 <table>
   <tr>
-    <td align="center">
-      <img src="icons/persona-steward.svg" width="72" alt="Steward persona icon">
+    <td align="center" valign="middle">
+      <div>
+        <img src="images/logos/cocivium-badge.svg" width="64" alt="CoCivium logo"><br/>
+        <img src="images/logos/coagent-badge.png" width="64" alt="CoAgent logo"><br/>
+        <img src="images/logos/coarena-badge.png" width="64" alt="CoArena logo"><br/>
+        <img src="images/logos/repozipper-hamburger-z.svg" width="64" alt="RepoZipper logo"><br/>
+        <img src="images/logos/question-mark-circle.svg" width="64" alt="Curious steward icon">
+      </div>
     </td>
     <td align="center">
       <img src="images/future-harmony-robot-child.png" width="420" alt="Future harmony: family and robot co-building a sandcastle">
     </td>
-    <td align="center">
-      <img src="icons/persona-builder.svg" width="72" alt="Builder persona icon">
+    <td align="center" valign="middle">
+      <div>
+        <img src="images/logos/cocivia-badge.png" width="64" alt="CoCivia logo"><br/>
+        <img src="images/logos/coguard-g.svg" width="64" alt="CoGuard logo"><br/>
+        <img src="images/logos/key-circle.svg" width="64" alt="Guardrails key icon"><br/>
+        <img src="images/logos/2-rings-glow.svg" width="64" alt="Allied minds icon"><br/>
+        <img src="images/logos/wonky-face.svg" width="64" alt="Human messiness icon">
+      </div>
     </td>
   </tr>
 </table>
@@ -278,5 +290,6 @@ For a fuller personal background and context for this work, see:
 - [Rick Ballard · public profile](https://github.com/rickballard/CoCivium/blob/main/docs/public-profile.md)
 
 > 
+
 
 
