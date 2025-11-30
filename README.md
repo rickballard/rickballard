@@ -18,21 +18,21 @@ This is also where we expore the only alternative, the "edge-balanced stability"
 <table>
   <tr>
     <td align="center" valign="middle">
-      <div>
-        <div style="height:120px;display:flex;align-items:center;justify-content:center;margin:4px 0;">
-          <img src="images/logos/cocivium-badge.svg" width="64" alt="CoCivium logo">
+      <div style="display:flex;flex-direction:column;justify-content:space-between;height:520px;">
+        <div>
+          <img src="images/logos/cocivium-badge.svg" height="80" alt="CoCivium logo">
         </div>
-        <div style="height:120px;display:flex;align-items:center;justify-content:center;margin:4px 0;">
-          <img src="images/logos/coagent-badge.png" width="160" alt="CoAgent logo">
+        <div>
+          <img src="images/logos/coagent-badge.png" height="80" alt="CoAgent logo">
         </div>
-        <div style="height:120px;display:flex;align-items:center;justify-content:center;margin:4px 0;">
-          <img src="images/logos/coarena-badge.png" width="160" alt="CoArena logo">
+        <div>
+          <img src="images/logos/coarena-badge.png" height="80" alt="CoArena logo">
         </div>
-        <div style="height:120px;display:flex;align-items:center;justify-content:center;margin:4px 0;">
-          <img src="images/logos/repozipper-hamburger-z.svg" width="64" alt="RepoZipper logo">
+        <div>
+          <img src="images/logos/repozipper-hamburger-z.svg" height="80" alt="RepoZipper logo">
         </div>
-        <div style="height:120px;display:flex;align-items:center;justify-content:center;margin:20px 0 0 0;">
-          <img src="images/logos/question-mark-circle.svg" width="56" alt="Curious steward icon">
+        <div>
+          <img src="images/logos/question-mark-circle.svg" height="80" alt="Curious steward icon">
         </div>
       </div>
     </td>
@@ -40,21 +40,21 @@ This is also where we expore the only alternative, the "edge-balanced stability"
       <img src="images/future-harmony-robot-child.png" width="420" alt="Future harmony: family and robot co-building a sandcastle">
     </td>
     <td align="center" valign="middle">
-      <div>
-        <div style="height:120px;display:flex;align-items:center;justify-content:center;margin:4px 0;">
-          <img src="images/logos/cocivia-badge.png" width="160" alt="CoCivia logo">
+      <div style="display:flex;flex-direction:column;justify-content:space-between;height:520px;">
+        <div>
+          <img src="images/logos/cocivia-badge.png" height="80" alt="CoCivia logo">
         </div>
-        <div style="height:120px;display:flex;align-items:center;justify-content:center;margin:4px 0;">
-          <img src="images/logos/coguard-g.svg" width="64" alt="CoGuard logo">
+        <div>
+          <img src="images/logos/coguard-g.svg" height="80" alt="CoGuard logo">
         </div>
-        <div style="height:120px;display:flex;align-items:center;justify-content:center;margin:4px 0;">
-          <img src="images/logos/key-circle.svg" width="56" alt="Guardrails key icon">
+        <div>
+          <img src="images/logos/key-circle.svg" height="80" alt="Guardrails key icon">
         </div>
-        <div style="height:120px;display:flex;align-items:center;justify-content:center;margin:4px 0;">
-          <img src="images/logos/2-rings-glow.svg" width="56" alt="Allied minds icon">
+        <div>
+          <img src="images/logos/2-rings-glow.svg" height="80" alt="Allied minds icon">
         </div>
-        <div style="height:120px;display:flex;align-items:center;justify-content:center;margin:4px 0;">
-          <img src="images/logos/wonky-face.svg" width="56" alt="Human messiness icon">
+        <div>
+          <img src="images/logos/wonky-face.svg" height="80" alt="Human messiness icon">
         </div>
       </div>
     </td>
@@ -310,6 +310,7 @@ For a fuller personal background and context for this work, see:
 - [Rick Ballard · public profile](https://github.com/rickballard/CoCivium/blob/main/docs/public-profile.md)
 
 > 
+
 
 
 
