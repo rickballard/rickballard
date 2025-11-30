@@ -208,9 +208,9 @@ If you are not sure where to begin, say so, plainly. “I care, but I am lost”
 
 ### How to use this map
 
-1. Skim the persona list below and pick the one (or two) that feels most like you right now.
-2. Follow the “Start here” repo links for that persona.
-3. Treat this as a living map. As your skills and curiosity evolve, come back and choose a new path.
+## 1. Skim the persona list below and pick the one (or two) that feels most like you right now.
+## 2. Follow the “Start here” repo links for that persona.
+## 3. Treat this as a living map. As your skills and curiosity evolve, come back and choose a new path.
 
 ---
 
@@ -293,9 +293,9 @@ If you are not sure where to begin, say so, plainly. “I care, but I am lost”
 
 ### Next steps after choosing a path
 
-1. Read the README and `/docs` of your chosen starting repo.
-2. Look for any “How to contribute” or “First issues” guidance.
-3. If you are unsure what to do next:
+## 1. Read the README and `/docs` of your chosen starting repo.
+## 2. Look for any “How to contribute” or “First issues” guidance.
+## 3. If you are unsure what to do next:
    - open a discussion in the hub repo, or
    - raise a small issue describing who you are and what you want to explore.
 
@@ -310,6 +310,7 @@ For a fuller personal background and context for this work, see:
 - [Rick Ballard · public profile](https://github.com/rickballard/CoCivium/blob/main/docs/public-profile.md)
 
 > 
+
 
 
 
