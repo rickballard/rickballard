@@ -98,7 +98,7 @@ It does not take many selfish actors to see what is possible when AIs can be tur
 
 That path is not inevitable.
 
-History, nature, and whatever you believe sits above both may have thrown us into this moment precisely so we can lead ourselves out. Sometimes a greater being works through us, not instead of us.
+History, nature, and whatever you believe sits above both, may have thrown us into this moment, precisely so we can lead ourselves out. Sometimes a greater Being works through us, not instead of us.
 
 So if any of this matches what your own gut and your own AIs are telling you, treat that as a signal.
 
