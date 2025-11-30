@@ -16,7 +16,19 @@ So this is where you might first feel the movement to fix world, then see it cle
 
 This is also where we expore the only alternative, the "edge-balanced stability", the only future where "we the poeple" get to impose the gaurdrails that makes CoEvolution equitable for all beings, where we are not inherently disadvantaged by emerging technologies, where converging power-brokers do not get to control most of the wealth, nearly all of our organizational systems, virtually all of society, and eventually, all of us.
 
-![Future harmony: child and robot co-building a 3D network](images/future-harmony-robot-child.png)
+<table>
+  <tr>
+    <td align="center">
+      <img src="icons/persona-steward.svg" width="72" alt="Steward persona icon">
+    </td>
+    <td align="center">
+      <img src="images/future-harmony-robot-child.png" width="420" alt="Future harmony: child and robot co-building a 3D network">
+    </td>
+    <td align="center">
+      <img src="icons/persona-builder.svg" width="72" alt="Builder persona icon">
+    </td>
+  </tr>
+</table>
 
 ---
 
@@ -271,4 +283,5 @@ For a fuller personal background and context for this work, see:
 
 
 > For the story + BPOE lessons behind these persona badges, see docs/notes/2025-11-28-persona-icon-microwave.md.
+
 
