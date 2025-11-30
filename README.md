@@ -22,7 +22,7 @@ This is also where we expore the only alternative, the "edge-balanced stability"
       <img src="icons/persona-steward.svg" width="72" alt="Steward persona icon">
     </td>
     <td align="center">
-      <img src="images/future-harmony-robot-child.png" width="420" alt="Future harmony: child and robot co-building a 3D network">
+      <img src="images/future-harmony-robot-child.png" width="420" alt="Future harmony: family and robot co-building a sandcastle">
     </td>
     <td align="center">
       <img src="icons/persona-builder.svg" width="72" alt="Builder persona icon">
@@ -283,5 +283,6 @@ For a fuller personal background and context for this work, see:
 
 
 > For the story + BPOE lessons behind these persona badges, see docs/notes/2025-11-28-persona-icon-microwave.md.
+
 
 
