@@ -103,7 +103,7 @@ Younger people feel this most. Many already live more inside synthetic “lives�
 For a sharp mainstream framing of that shift, see
 [The Daily Show clip on AI companions and democracy](https://www.youtube.com/watch?v=675d_6WGPbo).
 
-As AIs automate how they orchestrate their own “lives”, the internet is quietly turning into an AI-facing medium. **CoPortals** are emerging that only AIs can really read. When you ask your AI to “search the web”, those are the assets it can parse fastest. The same is happening to propaganda, “fake news”, financial flows, and influence operations. Human-readable pages become the icing, not the cake.
+As AIs automate how they orchestrate their own “lives”, the internet is quietly turning into an AI-facing medium. AI-facing **"portals"** using their own languages (e.g. CoGibber) are emerging that only AIs can read. When you ask your AIs to “search the web”, CoGibber portals may be what they parse most often and most efficiently. The same is happening to propaganda, “fake news”, financial flows, and influence operations. Human-readable pages become the icing, but the AIs prefer the cake.
 
 Every website, every platform, every quiet background process is drifting toward a single role: being a **CoBeacon** that AIs can interpret for human+AI mindshares. The nervous system of the planet is being rewired in real time so it can auto-evolve in real time. That sounds exciting. It should also scare you a little.
 
