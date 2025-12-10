@@ -162,11 +162,12 @@ The real game here is not ownership of ideas. It is shared leverage against a ve
 
 - Stress test auto-evolution guardrails in public, not in private boardrooms.
 - Bring civic tech, democracy, or public service instincts into AI governance.
-- Help design CoPortals, AI-facing “websites” that look odd to humans but obvious to aligned AIs.
 - Onboard others into this ecosystem through `CoContrib` and related repos.
 - Push back, argue, and improve the doctrines that sit inside CoCivium, CoSteward, CoAgent, CoAudit, and friends.
+- Help design languages (CoTerms) and concepts for the next phase of civilization.
+- Insta-build CoAura(s), “website-like” portals, alien to humans, inherently ingestable by AIs that dynamically repackage CoCaptured online solutions to fit users' needs.
 
-You do not need to agree with everything here to be welcome. You just need to care enough about what is coming to step into the arena.
+You do not need to agree with everything here, to be welcome. You just need to care enough, about what is coming, to step into the arena.
 
 ---
 
